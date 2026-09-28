@@ -1,7 +1,19 @@
-# Enterprise Windows Server & Active Directory Administration Lab
+# Enterprise Windows Server & Active Directory — Systems Administration Portfolio
 
-**Author:** Shiva Subedi  
-**Focus:** Windows Server | Active Directory | DNS | DHCP | Group Policy | NTFS | PowerShell | Troubleshooting
+**Shiva Subedi** | Windows Server • Active Directory • DNS • DHCP • Group Policy • PowerShell
+
+> Hands-on systems administration portfolio covering centralized identity, Windows network services, policy enforcement, file permissions, automation and troubleshooting.
+
+## Project at a Glance
+
+| Administration Area | Demonstrated Work |
+|---|---|
+| Active Directory | OUs, users, groups, provisioning and account troubleshooting |
+| DNS / DHCP | Windows name resolution and IP addressing services |
+| Group Policy | Centralized Windows configuration and access policies |
+| File Services | NTFS permissions, shares and mapped-drive access |
+| PowerShell | Repeatable administrative scripts |
+| Troubleshooting | Seven documented identity/network/policy incidents |
 
 ## Project Overview
 This portfolio project consolidates hands-on Windows Server and systems administration work completed in academic lab environments. It demonstrates the core responsibilities of a junior system administrator: centralized identity administration, network services, policy enforcement, access control, file services, automation, and structured troubleshooting.
@@ -88,8 +100,13 @@ The troubleshooting cases are reconstructed portfolio scenarios based on technol
 ## Key Skills Demonstrated
 `Windows Server` `Active Directory` `AD DS` `DNS` `DHCP` `Group Policy` `PowerShell` `NTFS` `File Shares` `Windows 11` `TCP/IP` `Account Management` `Access Control` `Troubleshooting` `Technical Documentation`
 
-## Related Project
-My Zero Trust healthcare network segmentation capstone complements this lab by demonstrating network segmentation, firewall policy design, VPN/MFA access, risk analysis, and security architecture.
+## Portfolio Connections
+- [Microsoft 365 | Entra ID | Intune Administration](https://github.com/shivasubedii/microsoft-365-entra-intune-enterprise-lab)
+- [Zero Trust Network Segmentation — Healthcare](https://github.com/shivasubedii/zero-trust-network-segmentation-healthcare)
+- [AutoSysAdmin — IT Systems Automation](https://github.com/shivasubedii/AutoSysAdmin)
+
+## Interview Talking Points
+I can explain how AD DS, DNS and DHCP work together in a Windows domain; how I structure OUs and groups; how Group Policy reaches clients; how NTFS/share permissions affect access; and how I isolate account, DNS, DHCP, GPO and connectivity problems.
 
 ---
 **Shiva Subedi**  
